@@ -10,6 +10,10 @@ Run the command given below: python get-pip.py
 
 and wait through the installation process.
 
-Install pyttsx3: Run the command given below:
+Install rotate-screen package: Run the command given below:
 
-pip install pyttsx3
+pip install rotate-screen
+
+Install time package: Run the command given below: 
+
+pip install python-time
